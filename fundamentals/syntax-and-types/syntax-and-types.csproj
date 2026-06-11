@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>syntax_and_types</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- <ImplicitUsings>disable</ImplicitUsings> -->
+
+  <ItemGroup>
+  <Using Remove="System.Threading" />
+  <Using Include="System.Numerics" />
+<Using Include="System.Console" Static="true" />
+<Using Include="System.Environment" Alias="Env" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/bin/Debug/net10.0/numbers
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/bin/Debug/net10.0/numbers.deps.json
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/bin/Debug/net10.0/numbers.runtimeconfig.json
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/bin/Debug/net10.0/numbers.dll
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/bin/Debug/net10.0/numbers.pdb
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.AssemblyInfoInputs.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.AssemblyInfo.cs
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.csproj.CoreCompileInputs.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.sourcelink.json
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.dll
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/refint/numbers.dll
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.pdb
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/numbers.genruntimeconfig.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/numbers/obj/Debug/net10.0/ref/numbers.dll

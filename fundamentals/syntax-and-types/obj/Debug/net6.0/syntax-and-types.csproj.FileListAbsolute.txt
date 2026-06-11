@@ -1,0 +1,15 @@
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/bin/Debug/net6.0/syntax-and-types
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/bin/Debug/net6.0/syntax-and-types.deps.json
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/bin/Debug/net6.0/syntax-and-types.runtimeconfig.json
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/bin/Debug/net6.0/syntax-and-types.dll
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/bin/Debug/net6.0/syntax-and-types.pdb
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.csproj.AssemblyReference.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.AssemblyInfoInputs.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.AssemblyInfo.cs
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.csproj.CoreCompileInputs.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.dll
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/refint/syntax-and-types.dll
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.pdb
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/syntax-and-types.genruntimeconfig.cache
+/home/mbousset/Desktop/c#_learning/fundamentals/syntax-and-types/obj/Debug/net6.0/ref/syntax-and-types.dll
