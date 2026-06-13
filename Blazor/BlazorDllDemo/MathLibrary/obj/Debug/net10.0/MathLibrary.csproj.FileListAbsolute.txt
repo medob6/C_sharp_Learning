@@ -1,0 +1,12 @@
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/bin/Debug/net10.0/MathLibrary.deps.json
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/bin/Debug/net10.0/MathLibrary.dll
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/bin/Debug/net10.0/MathLibrary.pdb
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.AssemblyInfoInputs.cache
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.AssemblyInfo.cs
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.csproj.CoreCompileInputs.cache
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.sourcelink.json
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.dll
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/refint/MathLibrary.dll
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/MathLibrary.pdb
+/home/mbousset/Desktop/c#_lerning/Blazor/BlazorDllDemo/MathLibrary/obj/Debug/net10.0/ref/MathLibrary.dll
